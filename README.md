@@ -20,7 +20,7 @@ A foundational aspect of the analysis was the examination of gender distribution
 
 Building upon the gender distribution analysis, I further segmented the dataset based on age groups to gain deeper insights into the age demographics of the customer base. By categorizing customers into distinct age brackets, including 0-17, 18-25, 26-35, and beyond, I uncovered nuanced patterns in purchasing behavior across different age cohorts.
 
-<h2>State-wise Order Distribution**</h2>
+<h2>State-wise Order Distribution</h2>
 
 A critical facet of the analysis entailed the geographic distribution of orders across different states. Through the creation of geographical heatmaps and bar charts, I identified the top-performing states in terms of order volume, providing actionable insights for targeted marketing strategies and resource allocation.
 
