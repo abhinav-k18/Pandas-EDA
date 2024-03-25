@@ -29,7 +29,9 @@ A crucial aspect of our analysis involved examining the geographic distribution 
 <h2>Occupation and Marital Status Analysis</h2>
 
 Delving deeper into customer demographics, I conducted an analysis of occupation and marital status. Through visually compelling bar chart visualizations, I elucidated the distribution of customers across various occupational sectors and compared the count of married versus unmarried individuals.
+
 ![MaritialStatusandGenderVSTotalAmountspent](https://github.com/abhinav-k18/Pandas-EDA/blob/main/Outputs%20for%20DA%20using%20Pandas/Maritial%20Status%20and%20Gender%20vs%20Total%20Amount.png) 
+
 *Maritial Status and Gender VS Total Amount spent*
 
 <h2>Product Category Sales Analysis</h2>
@@ -37,7 +39,7 @@ Delving deeper into customer demographics, I conducted an analysis of occupation
 The dataset also provided valuable insights into customer purchasing behavior across different product categories. Through the visualization of detailed bar charts and pie charts, I examined the distribution of sales among categories such as food, clothing, electronics, and more, uncovering patterns that informed strategic decision-making.
 
 ![Top 10 most amount spent categories](https://github.com/abhinav-k18/Pandas-EDA/blob/main/Outputs%20for%20DA%20using%20Pandas/Top%2010%20Categories%20in%20amount%20spent.png)
-*Top 10 categories*
+*Top 10 categories in Sales*
 
 <h1>Conclusion</h1>
 
