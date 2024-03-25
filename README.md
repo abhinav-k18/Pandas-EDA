@@ -1,6 +1,6 @@
 **Project Summary: Exploratory Data Analysis of Customer Dataset**
 
-##Introduction
+<h2>Introduction</h2>
 
 In this comprehensive project, I embarked on an extensive exploration of a customer dataset, leveraging the power of Python libraries including NumPy, Pandas, Matplotlib, and Seaborn. The dataset, comprising 11,251 rows and 15 columns, encapsulated a wealth of information ranging from customer demographics to purchasing behavior and geographic details.
 
