@@ -15,6 +15,8 @@ With the dataset primed for analysis, I delved into the realm of Exploratory Dat
 <h2>Gender Distribution Analysis</h2>
 
 A foundational aspect of the analysis was the examination of gender distribution among customers. Through the visualization of a comprehensive bar chart, I dissected the dataset to reveal the proportion of male, female, and other gender categories.
+![Gender VS Total Sales Amount](https://github.com/abhinav-k18/Pandas-EDA/blob/main/Outputs%20for%20DA%20using%20Pandas/Gender%20vs%20Total%20Sales.png)
+*Bar Graph showing amount of Sales versus different Genders*
 
 <h2>Age Group Analysis</h2>
 
