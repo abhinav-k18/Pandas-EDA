@@ -14,25 +14,28 @@ With the dataset primed for analysis, I delved into the realm of Exploratory Dat
 
 <h2>Gender Distribution Analysis</h2>
 
-A foundational aspect of the analysis was the examination of gender distribution among customers. Through the visualization of a comprehensive bar chart, I dissected the dataset to reveal the proportion of male, female, and other gender categories.
+A foundational aspect of the analysis was the examination of gender distribution among customers. Through the visualization of a comprehensive bar chart, I dissected the dataset to reveal the proportion of male and female categories.
 ![Gender VS Total Sales Amount](https://github.com/abhinav-k18/Pandas-EDA/blob/main/Outputs%20for%20DA%20using%20Pandas/Gender%20vs%20Total%20Sales.png)
 *Bar Graph showing amount of Sales versus different Genders*
 
 <h2>Age Group Analysis</h2>
 
-Building upon the gender distribution analysis, I further segmented the dataset based on age groups to gain deeper insights into the age demographics of the customer base. By categorizing customers into distinct age brackets, including 0-17, 18-25, 26-35, and beyond, I uncovered nuanced patterns in purchasing behavior across different age cohorts.
+Expanding on the examination of gender distribution, I went a step further and divided the dataset into age groups to better understand the demographics of our customer base. By categorizing customers into age brackets such as 0-17, 18-25, 26-35, and beyond, I discovered interesting trends in purchasing behavior among different age groups.
 
 <h2>State-wise Order Distribution</h2>
 
-A critical facet of the analysis entailed the geographic distribution of orders across different states. Through the creation of geographical heatmaps and bar charts, I identified the top-performing states in terms of order volume, providing actionable insights for targeted marketing strategies and resource allocation.
+A crucial aspect of our analysis involved examining the geographic distribution of orders across various states. Using geographical bar charts, I pinpointed the states with the highest order volumes, offering valuable insights for devising targeted marketing strategies and optimizing resource allocation.
 
 <h2>Occupation and Marital Status Analysis</h2>
 
 Delving deeper into customer demographics, I conducted an analysis of occupation and marital status. Through visually compelling bar chart visualizations, I elucidated the distribution of customers across various occupational sectors and compared the count of married versus unmarried individuals.
+![Maritial Status and Gender VS Total Amount spent](https://github.com/abhinav-k18/Pandas-EDA/blob/main/Outputs%20for%20DA%20using%20Pandas/Maritial%20Status%20and%20Gender%20vs%20Total%20Amount.png) 
 
 <h2>Product Category Sales Analysis</h2>
 
 The dataset also provided valuable insights into customer purchasing behavior across different product categories. Through the visualization of detailed bar charts and pie charts, I examined the distribution of sales among categories such as food, clothing, electronics, and more, uncovering patterns that informed strategic decision-making.
+
+![Top 10 most amount spent categories](https://github.com/abhinav-k18/Pandas-EDA/blob/main/Outputs%20for%20DA%20using%20Pandas/Top%2010%20Categories%20in%20amount%20spent.png)
 
 <h1>Conclusion</h1>
 
